@@ -1,2 +1,2 @@
-# data_scienceGB
-repo for home_works DS
+# machine_learning_GB
+This is my repo for DS course
